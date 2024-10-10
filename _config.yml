@@ -61,9 +61,9 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               - title: '<i class="fa-solid fa-comment fa-fw"></i> 留言'
                 href: /bk/comments
               - title: '<i class="fa-solid fa-archive fa-fw"></i> 归档'
-                href: /archive
+                href: /bk/archive
               - title: '<i class="fa-solid fa-tags fa-fw"></i> 标签'
-                href: /tags
+                href: /bk/tags
               - title: '<i class="fa-solid fa-coffee fa-fw"></i> 打赏'
                 href: /bk/merger
             simple_jekyll_search: # 侧边栏的全站搜索
